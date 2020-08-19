@@ -1,0 +1,148 @@
+{
+    "availableLanguageIds": [
+        "en_US",
+        "pt_BR"
+    ],
+    "defaultLanguageId": "pt_BR",
+    "fields": [
+        {
+            "label": {
+                "en_US": "Texto",
+                "pt_BR": "Título"
+            },
+            "predefinedValue": {
+                "en_US": "",
+                "pt_BR": ""
+            },
+            "style": {
+                "en_US": "",
+                "pt_BR": ""
+            },
+            "tip": {
+                "en_US": "",
+                "pt_BR": ""
+            },
+            "dataType": "string",
+            "indexType": "keyword",
+            "localizable": true,
+            "name": "Titulo",
+            "readOnly": false,
+            "repeatable": true,
+            "required": false,
+            "showLabel": true,
+            "type": "text",
+            "nestedFields": [
+                {
+                    "label": {
+                        "en_US": "Texto",
+                        "pt_BR": "Texto"
+                    },
+                    "predefinedValue": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "style": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "tip": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "dataType": "string",
+                    "indexType": "keyword",
+                    "localizable": true,
+                    "name": "Texto23tx",
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "type": "text"
+                },
+                {
+                    "label": {
+                        "en_US": "Cor",
+                        "pt_BR": "Cor"
+                    },
+                    "predefinedValue": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "style": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "tip": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "dataType": "color",
+                    "fieldNamespace": "ddm",
+                    "indexType": "keyword",
+                    "localizable": true,
+                    "name": "Corpyuy",
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "type": "ddm-color"
+                },
+                {
+                    "label": {
+                        "en_US": "link",
+                        "pt_BR": "link"
+                    },
+                    "predefinedValue": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "style": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "tip": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "dataType": "string",
+                    "indexType": "keyword",
+                    "localizable": true,
+                    "name": "link",
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "type": "text"
+                },
+                {
+                    "label": {
+                        "en_US": "Imagem",
+                        "pt_BR": "Imagem"
+                    },
+                    "predefinedValue": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "style": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "tip": {
+                        "en_US": "",
+                        "pt_BR": ""
+                    },
+                    "dataType": "image",
+                    "fieldNamespace": "ddm",
+                    "indexType": "text",
+                    "localizable": true,
+                    "name": "Imagem1a79",
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "type": "ddm-image"
+                }
+            ]
+        }
+    ]
+}
